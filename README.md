@@ -1,7 +1,6 @@
-# 📘 Caderno Temático: [Nome do Tema, ex: IA Generativa e Produtividade]
+# 📘 Caderno Temático: IA Generativa e Produtividade
 
-> **Autor:** [Seu Nome]
-> **Data:** [Data de hoje]
+> **Autor:** Gilberto Neri Godoy
 > **Ferramenta:** Google NotebookLM
 
 ---
@@ -10,10 +9,10 @@
 
 Este projeto foi desenvolvido como parte do desafio da DIO para demonstrar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
 
-**Tema Escolhido:** [Descreva o tema, ex: Como a IA Generativa está mudando a rotina de desenvolvedores e analistas de negócios.]
+**Tema Escolhido:** Como a IA Generativa está mudando a rotina de desenvolvedores e analistas de negócios.
 
 **Objetivos de Estudo:**
-*   Compreender os conceitos fundamentais de [Tema].
+*   Compreender os conceitos fundamentais de IA Generativa.
 *   Identificar as principais ferramentas e metodologias citadas nas fontes.
 *   Analisar os prós e contras da adoção dessa tecnologia.
 *   Criar um material de consulta rápida (Glossário e Resumos) para revisão futura.
@@ -24,10 +23,10 @@ Este projeto foi desenvolvido como parte do desafio da DIO para demonstrar o uso
 
 Para alimentar o NotebookLM, selecionei fontes confiáveis e técnicas para garantir a qualidade da "alucinação" zero e precisão das respostas.
 
-1.  **[Título do Artigo/PDF 1]**
-    *   *Tipo:* [ex: Artigo Técnico / Paper]
-    *   *Link/Arquivo:* [Inserir Link ou dizer "Arquivo PDF anexado"]
-    *   *Motivo da escolha:* [ex: Traz dados estatísticos sobre o mercado].
+1.  **Modelos de IA Generativa**
+    *   *Tipo:* Artigo Técnico 
+    *   *Link/Arquivo:* (https://www.monografias.ufop.br/bitstream/35400000/8413/3/MONOGRAFIA_Revis%C3%A3oNarrativaModelos.pdf)
+    *   *Motivo da escolha:* Traz Modelos de IA Generativa como aplicação.
 2.  **[Título do Artigo/PDF 2]**
     *   *Tipo:* [ex: Blog Post Especializado]
     *   *Link/Arquivo:* [Inserir Link]
@@ -60,7 +59,7 @@ Aqui documento o processo de iteração com a IA. O objetivo foi refinar as perg
 
 ---
 
-## 🚀 4. Miniguia de Estudo (Entrega Final)
+## 🚀 4. Miniguia de Estudo 
 
 ### 📝 Resumos Estruturados
 *   **Conceito Chave:** [Resumo de 2 parágrafos sobre o conceito central do tema].
